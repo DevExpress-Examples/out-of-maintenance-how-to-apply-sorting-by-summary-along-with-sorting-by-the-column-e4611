@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GroupSummaryOptions.cs](./CS/GroupSorting/GroupSummaryOptions.cs) (VB: [GroupSummaryOptions.vb](./VB/GroupSorting/GroupSummaryOptions.vb))
+* [MainWindow.xaml](./CS/GroupSorting/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GroupSorting/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/GroupSorting/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/GroupSorting/MainWindow.xaml))
+* [OrderHelper.cs](./CS/GroupSorting/OrderHelper.cs) (VB: [OrderHelper.vb](./VB/GroupSorting/OrderHelper.vb))
+* [RandomStringHelper.cs](./CS/GroupSorting/RandomStringHelper.cs) (VB: [RandomStringHelper.vb](./VB/GroupSorting/RandomStringHelper.vb))
+<!-- default file list end -->
 # How to apply sorting by Summary along with sorting by the Column
 
 
