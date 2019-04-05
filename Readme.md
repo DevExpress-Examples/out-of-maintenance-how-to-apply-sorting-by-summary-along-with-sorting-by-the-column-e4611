@@ -3,7 +3,7 @@
 
 * [GroupSummaryOptions.cs](./CS/GroupSorting/GroupSummaryOptions.cs) (VB: [GroupSummaryOptions.vb](./VB/GroupSorting/GroupSummaryOptions.vb))
 * [MainWindow.xaml](./CS/GroupSorting/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GroupSorting/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/GroupSorting/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/GroupSorting/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/GroupSorting/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GroupSorting/MainWindow.xaml.vb))
 * [OrderHelper.cs](./CS/GroupSorting/OrderHelper.cs) (VB: [OrderHelper.vb](./VB/GroupSorting/OrderHelper.vb))
 * [RandomStringHelper.cs](./CS/GroupSorting/RandomStringHelper.cs) (VB: [RandomStringHelper.vb](./VB/GroupSorting/RandomStringHelper.vb))
 <!-- default file list end -->
